@@ -3,8 +3,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=aashimawadhwa&show_icons=true&include_all_commits=true&bg_color=315,0cbaba,380036&title_color=656372&hide=issues,stars" />
 
-<br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashimawadhwa&bg_color=315,0cbaba,380036&title_color=656372&layout=compact" />
+
   
   ## Languages
 
