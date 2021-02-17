@@ -2,7 +2,7 @@
 ### I am aashima
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=aashimawadhwa&show_icons=true&include_all_commits=true&bg_color=315,0cbaba,380036&title_color=656372&hide=issues,stars" />
-<img src="https://images.app.goo.gl/6MFYy1Du24yW6E3P6/>
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/d6447c69916383.5b940de0571a8.gif"/>
 
   
   ## Languages
