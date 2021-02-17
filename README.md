@@ -2,7 +2,7 @@
 ### I am aashima
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=aashimawadhwa&show_icons=true&include_all_commits=true&bg_color=315,0cbaba,380036&title_color=656372&hide=issues,stars" />
-<img src="https://gist.github.com/Ishaan28malik/dc5bcf690c1cff4b5f08cb5f029e9b3d">
+<img src="https://gist.githubusercontent.com/Ishaan28malik/dc5bcf690c1cff4b5f08cb5f029e9b3d/raw/9283efbf4c286092799fd985331e883f0693c4b6/AboutMe.gif"/>
 
 
   
