@@ -1,8 +1,9 @@
 ### Hi there 👋 
 ### I am aashima
+<img align="right" width="300" height="250" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/d6447c69916383.5b940de0571a8.gif"/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=aashimawadhwa&show_icons=true&include_all_commits=true&bg_color=315,0cbaba,380036&title_color=656372&hide=issues,stars" />
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/d6447c69916383.5b940de0571a8.gif"/>
+
 
   
   ## Languages
