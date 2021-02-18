@@ -2,13 +2,13 @@
 ### I am aashima
 <img align="right" width="300" height="250" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/d6447c69916383.5b940de0571a8.gif"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=aashimawadhwa&show_icons=true&include_all_commits=true&bg_color=315,0cbaba,380036&title_color=656372&hide=issues,stars" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=aashimawadhwa&show_icons=true&include_all_commits=true&bg_color=315,FDB813,788CB6&title_color=656372&hide=issues,stars" />
 
 
   
   ## Languages
 
-<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" alt="C" style="width:100%">  <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" style="width:100%"> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML" style="width:100%">  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS" style="width:100%"> <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git">
+<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" alt="C" style="width:100%">  <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" style="width:100%"> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML" style="width:100%">  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS" style="width:100%"> <img height="30" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git">
 
 
 
