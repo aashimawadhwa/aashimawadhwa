@@ -13,6 +13,7 @@
 <img height="30"  src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git">  <img height="30"  src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github">  <img height="30"  src="https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown">
 
 <a href = "https://www.linux.org/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux"></a>
+<img src="https://img.shields.io/badge/javascript%20-%231572B6.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
 
 
 ## Lets Connect
