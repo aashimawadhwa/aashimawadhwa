@@ -6,6 +6,9 @@
 
 <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashimawadhwa&bg_color=315,FDB813,788CB6&title_color=656372&layout=compact" />
+<br>
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=aashimawadhwa&theme=dark"/>
+  
   
   ## Languages
 
