@@ -1,5 +1,4 @@
-### Hi there 👋 
-### I am aashima
+### Hi there 👋  I am aashima
 <img align="right" width="300" height="250" src="anime.gif"/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=aashimawadhwa&show_icons=true&include_all_commits=true&bg_color=315,FDB813,788CB6&title_color=656372&hide=issues,stars" />
