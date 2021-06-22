@@ -8,6 +8,10 @@
 <br>
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=aashimawadhwa&theme=dark)
+
+
+<img height="30" src="https://img.shields.io/badge/-Portfolio-blue" alt="typeScript" style="width:100%">
+
   
   
   ## Languages
