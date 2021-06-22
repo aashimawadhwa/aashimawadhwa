@@ -10,7 +10,7 @@
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=aashimawadhwa&theme=dark)
 
 
-<a href="#" onclick='window.open("https://aashimawadhwa.github.io/portfolio/")'>
+<a href="https://aashimawadhwa.github.io/portfolio/">
   <img src="https://img.shields.io/badge/-Portfolio-blue"  width="17%";margin-left:20px;margin-right:20px;></img></a>    
 
   
