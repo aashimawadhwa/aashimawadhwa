@@ -1,4 +1,38 @@
-### Hi there 👋  I am Aashima
+
+
+<h1 align="center">
+  <a target="_blank">
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
+  </a>
+  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
+  <a target="_blank">
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
+  </a>
+</h1>
+
+<br/>
+<br/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <img align="right" width="300" height="250" src="anime.gif"/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=aashimawadhwa&show_icons=true&include_all_commits=true&bg_color=0000&title_color=ffff&text_color=ffff&icon_color=F34B7D&hide=issues,stars" />
