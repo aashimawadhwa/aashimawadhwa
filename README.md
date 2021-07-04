@@ -64,7 +64,11 @@
   
   ## 
   <img src="https://komarev.com/ghpvc/?username=aashimawadhwa" width=160px/>
-  
+ 
+#
+    
+  <img height="120" alt="Thanks for visiting my profile" width="100%" text color="pink" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
+
   
   #
   
