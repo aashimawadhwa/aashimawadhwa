@@ -27,9 +27,6 @@
 <a href="https://aashimawadhwa.github.io/portfolio/" target="_blank">
   <img src="https://img.shields.io/badge/-Portfolio-blue"  width="17%";margin-left:20px;margin-right:20px;></img></a>    
 
-
-
-  
   
   ## Languages
 
