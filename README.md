@@ -51,8 +51,7 @@
   <a href="www.linkedin.com/in/aashima-wadhwa-0468771bb" target="_blank">
     <img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" height="4%" ; width="4%" ; margin-left:20px;></img></a>
   
-  
-  ## 
+  # 
   <img src="https://komarev.com/ghpvc/?username=aashimawadhwa" width=160px/>
  
 #
