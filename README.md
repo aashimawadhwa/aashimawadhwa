@@ -46,7 +46,7 @@
   <img src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" height="4%" ; width="4%";margin-left:20px;margin-right:20px;></img></a> 
   
 
-<a href="https://twitter.com/nomn2002" target="_blank" >
+<a href="https://twitter.com/" target="_blank" >
   <img src="https://wie.ieee.org/wp-content/uploads/2019/06/twitter-logo-transparent-15.png" height="5%" ; width="5%" ; margin-left:0px;></img></a>   
 
   <a href="www.linkedin.com/in/aashima-wadhwa-0468771bb" target="_blank">
