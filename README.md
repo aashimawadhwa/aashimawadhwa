@@ -41,11 +41,11 @@
 <a href="https://wa.link/kllndd">
   <img src="https://image.flaticon.com/icons/png/512/2111/2111728.png" height="4%" ; width="4%" ; margin-left:50px;margin-right:20px;padding:20px;></img></a>
 
-<a href="https://www.instagram.com/" target="_blank">
+<a href="https://www.instagram.com/ashimawadhwaa/" target="_blank">
   <img src="https://image.flaticon.com/icons/png/512/2111/2111463.png" height="4%" ; width="4%";margin-left:20px;margin-right:20px;></img></a> 
   
 
-<a href="https://twitter.com/" target="_blank" >
+<a href="https://twitter.com/ashimawadhwaa" target="_blank" >
   <img src="https://wie.ieee.org/wp-content/uploads/2019/06/twitter-logo-transparent-15.png" height="5%" ; width="5%" ; margin-left:0px;></img></a>   
 
   <a href="www.linkedin.com/in/aashima-wadhwa-0468771bb" target="_blank">
