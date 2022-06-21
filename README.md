@@ -37,19 +37,8 @@
 
 <a href = "https://www.linux.org/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux"></a> <a href = "https://code.visualstudio.com/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></a>  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png">
 
-## Lets Connect
-<a href="https://wa.link/kllndd">
-  <img src="https://image.flaticon.com/icons/png/512/2111/2111728.png" height="4%" ; width="4%" ; margin-left:50px;margin-right:20px;padding:20px;></img></a>
-
-<a href="https://www.instagram.com/" target="_blank">
-  <img src="https://image.flaticon.com/icons/png/512/2111/2111463.png" height="4%" ; width="4%";margin-left:20px;margin-right:20px;></img></a> 
-  
-
-<a href="https://twitter.com/" target="_blank" >
-  <img src="https://wie.ieee.org/wp-content/uploads/2019/06/twitter-logo-transparent-15.png" height="5%" ; width="5%" ; margin-left:0px;></img></a>   
-
-  <a href="www.linkedin.com/in/aashima-wadhwa-0468771bb" target="_blank">
-    <img src="https://image.flaticon.com/icons/png/512/174/174857.png" height="4%" ; width="4%" ; margin-left:20px;></img></a>
+## 🌐Socials
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aashima--wadhwa) 
   
   # 
   <img src="https://komarev.com/ghpvc/?username=aashimawadhwa" width=160px/>
