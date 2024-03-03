@@ -21,7 +21,7 @@
  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=aashimawadhwa&theme=dark)
 
 
-<a href="https://aashimawadhwa.carrd.co/" target="_blank">
+<a href="https://aashima-wadhwa.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/-Portfolio-blue"  width="17%";margin-left:20px;margin-right:20px;></img></a>    
 
   
